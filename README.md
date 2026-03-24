@@ -1,5 +1,7 @@
 # Jira MCP Server
 
+> **Fork of [OrenGrinker/jira-mcp-server](https://github.com/OrenGrinker/jira-mcp-server)**
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)

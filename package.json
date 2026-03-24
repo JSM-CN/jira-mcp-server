@@ -34,6 +34,7 @@
     "url": "https://github.com/JSM-CN/jira-mcp-server/issues"
   },
   "homepage": "https://github.com/JSM-CN/jira-mcp-server#readme",
+  "funding": "https://github.com/OrenGrinker/jira-mcp-server",
   "engines": {
     "node": ">=18.0.0"
   },
